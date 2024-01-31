@@ -1,0 +1,8 @@
+{
+  "name": "Market",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/m-persikov/Market.git",
+  "author": "m-persikov <michael.persikov@gmail.com>",
+  "license": "MIT"
+}
