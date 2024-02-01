@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/m-persikov/Market.git",
   "author": "m-persikov <michael.persikov@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
